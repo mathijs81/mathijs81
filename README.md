@@ -3,17 +3,16 @@
 ### Things I've worked on or am working on right now:
 
  - [AppBrain, discover the best Android apps and games](https://www.appbrain.com/) [![AppBrain App Market Downloads](https://www.appbrain.com/shield/com.appspot.swisscodemonkeys.apps.svg)](https://www.appbrain.com/app/appbrain-app-market/com.appspot.swisscodemonkeys.apps)
- - [Goofball Gang, an interactive NFT collection](https://www.goofballgang.com/)
- - [Quantitative Blush Evaluator](https://github.com/mathijs81/qube)
+ - [BlueSky stats and insights](https://bluefacts.app/)
+ - [ReallyWrite better academic writing](https://www.reallywrite.com/)
 
 ### Favorite technologies
  - Java/Kotlin, Rust
- - Vue 3, React
- - Postgres, SQLite
- - Python notebooks
+ - Svelte, Vue 3
+ - DuckDb, Postgres, SQLite
 
 ### How to reach me
- - [Twitter: @thijser](https://twitter.com/thijser)
+ - [Bluesky: @thijser](https://bsky.app/profile/thijser.bsky.social)
  - [LinkedIn](https://www.linkedin.com/in/mvogelzang/)
  
 <!--
